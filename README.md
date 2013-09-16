@@ -2,6 +2,10 @@
 
 An interface with PhantomJS for Ruby.
 
+[![Gem Version](https://badge.fury.io/rb/phantomrb.png)](http://badge.fury.io/rb/phantomrb)
+
+[![Build Status](https://travis-ci.org/agladkyi/phantomrb.png?branch=master)](https://travis-ci.org/agladkyi/phantomrb)
+
 ## Dependencies
 
 [PhantomJS](http://phantomjs.org) must be installed on your system.
